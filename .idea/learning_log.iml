@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7.10 (C:\Python27\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Django Lib" level="project" />
+    <orderEntry type="module" module-name="pythonn3learn" />
+    <orderEntry type="module" module-name="解析库的使用" />
+    <orderEntry type="module" module-name="数据存储" />
+    <orderEntry type="module" module-name="Ajax数据爬取" />
+    <orderEntry type="module" module-name="动态渲染页面" />
+    <orderEntry type="module" module-name="验证码的识别" />
+    <orderEntry type="module" module-name="代理" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/ll_env/Lib/site-packages/django/contrib/gis/templates" />
+      </list>
+    </option>
+  </component>
+</module>

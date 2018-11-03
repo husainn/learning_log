@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/pacong/Ajax数据爬取/.idea/Ajax数据爬取.iml" filepath="E:/pacong/Ajax数据爬取/.idea/Ajax数据爬取.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning_log.iml" filepath="$PROJECT_DIR$/.idea/learning_log.iml" />
+      <module fileurl="file://E:/pythonn3learn/.idea/pythonn3learn.iml" filepath="E:/pythonn3learn/.idea/pythonn3learn.iml" />
+      <module fileurl="file://E:/pacong/代理/.idea/代理.iml" filepath="E:/pacong/代理/.idea/代理.iml" />
+      <module fileurl="file://E:/pacong/动态渲染页面/.idea/动态渲染页面.iml" filepath="E:/pacong/动态渲染页面/.idea/动态渲染页面.iml" />
+      <module fileurl="file://E:/pacong/数据存储/.idea/数据存储.iml" filepath="E:/pacong/数据存储/.idea/数据存储.iml" />
+      <module fileurl="file://E:/pacong/解析库的使用/.idea/解析库的使用.iml" filepath="E:/pacong/解析库的使用/.idea/解析库的使用.iml" />
+      <module fileurl="file://E:/pacong/验证码的识别/.idea/验证码的识别.iml" filepath="E:/pacong/验证码的识别/.idea/验证码的识别.iml" />
+    </modules>
+  </component>
+</project>
